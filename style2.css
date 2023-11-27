@@ -1,0 +1,6 @@
+.gradient-custom {
+    background: #36558F;
+    background: linear-gradient(to left, #eb0808, #000000)
+    }
+
+    #success_message{ display: none;}
